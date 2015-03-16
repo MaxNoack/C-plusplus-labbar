@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1418023386 source:c:\users\max\documents\c++\labbar\labb 5\u3\numbers.cpp
+	"Numbers.h"
+
+1418042496 c:\users\max\documents\c++\labbar\labb 5\u3\numbers.h
+
+1418043343 source:c:\users\max\documents\c++\labbar\labb 5\u3\main.cpp
+	<iostream>
+	<cstdlib>
+	"Numbers.h"
+	<time.h>
+

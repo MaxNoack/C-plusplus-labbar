@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1416844890 source:c:\users\max\documents\c++\labbar\labb 3\u5\kvadrat.cpp
+	"Kvadrat.h"
+
+1421053491 c:\users\max\documents\c++\labbar\labb 3\u5\kvadrat.h
+
+1421053441 source:c:\users\max\documents\c++\labbar\labb 3\u5\main.cpp
+	<iostream>
+	"kvadrat.h"
+

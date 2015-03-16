@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1416849213 source:c:\users\max\documents\c++\labbar\labb 3\u6\main.cpp
+	<iostream>
+	"Personnummer.h"
+
+1417094120 c:\users\max\documents\c++\labbar\labb 3\u6\personnummer.h
+	<iostream>
+
+1417438077 source:c:\users\max\documents\c++\labbar\labb 3\u6\personnummer.cpp
+	"personnummer.h"
+	<iostream>
+	<cstring>
+

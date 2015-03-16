@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1417448309 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\kok.cpp
+	"Kok.h"
+	"Rum.h"
+	<iostream>
+
+1417446467 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\kok.h
+	"Rum.h"
+
+1417448548 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\rum.h
+	<iostream>
+
+1417443619 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\badrum.cpp
+	"Badrum.h"
+	"Rum.h"
+	<iostream>
+
+1417443600 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\badrum.h
+	"Rum.h"
+
+1417448456 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\bostad.cpp
+	"bostad.h"
+
+1417448345 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\bostad.h
+	"rum.h"
+	"Kok.h"
+	"Badrum.h"
+	"Vardagsrum.h"
+	"Sovrum.h"
+
+1417448780 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\vardagsrum.h
+	"Rum.h"
+
+1417447658 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\sovrum.h
+	"Rum.h"
+
+1417432878 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\main.cpp
+	<iostream>
+	"Bostad.h"
+
+1417448518 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\rum.cpp
+	"Rum.h"
+
+1417448651 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u3\sovrum.cpp
+	"Sovrum.h"
+	"Rum.h"
+	<iostream>
+
+1417454424 source:c:\users\max\documents\c++\labbar\labb 4\u3\badrum.cpp
+	"Badrum.h"
+	"Rum.h"
+	<iostream>
+
+1417443602 c:\users\max\documents\c++\labbar\labb 4\u3\badrum.h
+	"Rum.h"
+
+1417448550 c:\users\max\documents\c++\labbar\labb 4\u3\rum.h
+	<iostream>
+
+1417454476 source:c:\users\max\documents\c++\labbar\labb 4\u3\bostad.cpp
+	"bostad.h"
+
+1417448346 c:\users\max\documents\c++\labbar\labb 4\u3\bostad.h
+	"rum.h"
+	"Kok.h"
+	"Badrum.h"
+	"Vardagsrum.h"
+	"Sovrum.h"
+
+1417454414 c:\users\max\documents\c++\labbar\labb 4\u3\kok.h
+	"Rum.h"
+
+1417448782 c:\users\max\documents\c++\labbar\labb 4\u3\vardagsrum.h
+	"Rum.h"
+
+1417454370 c:\users\max\documents\c++\labbar\labb 4\u3\sovrum.h
+	"Rum.h"
+
+1417454412 source:c:\users\max\documents\c++\labbar\labb 4\u3\kok.cpp
+	"Kok.h"
+	"Rum.h"
+	<iostream>
+
+1417432878 source:c:\users\max\documents\c++\labbar\labb 4\u3\main.cpp
+	<iostream>
+	"Bostad.h"
+
+1417448520 source:c:\users\max\documents\c++\labbar\labb 4\u3\rum.cpp
+	"Rum.h"
+
+1417454376 source:c:\users\max\documents\c++\labbar\labb 4\u3\sovrum.cpp
+	"Sovrum.h"
+	"Rum.h"
+	<iostream>
+
+1417454449 source:c:\users\max\documents\c++\labbar\labb 4\u3\vardagsrum.cpp
+	"Vardagsrum.h"
+	"Rum.h"
+	<iostream>
+

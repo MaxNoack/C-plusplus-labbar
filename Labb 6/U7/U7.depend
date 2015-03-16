@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418650467 source:c:\users\max\documents\c++\labbar\labb 6\u7\main.cpp
+	<iostream>
+	<unistd.h>
+

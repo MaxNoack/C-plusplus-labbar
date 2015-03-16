@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1417448840 source:c:\users\max\documents\c++\labbar\labb 4\u2\main.cpp
+	<iostream>
+	"Dog.h"
+	"Cat.h"
+	"Bird.h"
+	"Pet.h"
+
+1417429514 source:c:\users\max\documents\c++\labbar\labb 4\u2\dog.cpp
+	"dog.h"
+
+1417430474 c:\users\max\documents\c++\labbar\labb 4\u2\dog.h
+	"Pet.h"
+
+1417428564 c:\users\max\documents\c++\labbar\labb 4\u2\pet.h
+	<iostream>
+
+1417430780 source:c:\users\max\documents\c++\labbar\labb 4\u2\pet.cpp
+	"Pet.h"
+
+1417429388 source:c:\users\max\documents\c++\labbar\labb 4\u2\bird.cpp
+	"Bird.h"
+
+1417430472 c:\users\max\documents\c++\labbar\labb 4\u2\bird.h
+	"pet.h"
+
+1417429020 source:c:\users\max\documents\c++\labbar\labb 4\u2\cat.cpp
+	"Cat.h"
+
+1417430472 c:\users\max\documents\c++\labbar\labb 4\u2\cat.h
+	"pet.h"
+
+1417429388 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\bird.cpp
+	"Bird.h"
+
+1417430472 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\bird.h
+	"pet.h"
+
+1417428564 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\pet.h
+	<iostream>
+
+1417429020 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\cat.cpp
+	"Cat.h"
+
+1417430472 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\cat.h
+	"pet.h"
+
+1417429514 source:\\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\dog.cpp
+	"dog.h"
+
+1417430474 \\uwfpcluster03.uw.lu.se\zba10mn1$\desktop\labb 4\u2\dog.h
+	"Pet.h"
+

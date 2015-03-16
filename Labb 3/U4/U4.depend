@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1417436971 source:c:\users\max\documents\c++\labbar\labb 3\u4\main.cpp
+	<iostream>
+	<string>
+	"dictionary.h"
+	"Word.h"
+
+1416821076 source:c:\users\max\documents\c++\labbar\labb 3\u4\word.cpp
+	"Word.h"
+	<cstring>
+
+1417437514 c:\users\max\documents\c++\labbar\labb 3\u4\word.h
+
+1417437644 source:c:\users\max\documents\c++\labbar\labb 3\u4\dictionary.cpp
+	"dictionary.h"
+	<vector>
+	<cstring>
+	<iostream>
+	<iomanip>
+
+1416835499 c:\users\max\documents\c++\labbar\labb 3\u4\dictionary.h
+	<vector>
+	<string>
+	"word.h"
+

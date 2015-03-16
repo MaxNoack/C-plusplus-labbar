@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1418030263 source:c:\users\max\documents\c++\labbar\labb 4\u4\vektor.cpp
+	"vektor.h"
+	<stdexcept>
+
+1417611741 c:\users\max\documents\c++\labbar\labb 4\u4\vektor.h
+	<ostream>
+
+1418032255 source:c:\users\max\documents\c++\labbar\labb 4\u4\main.cpp
+	<iostream>
+	<stdexcept>
+	<typeinfo>
+	"Vektor.h"
+

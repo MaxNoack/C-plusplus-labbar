@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1418054097 source:c:\users\max\documents\c++\labbar\labb 5\u6\main.cpp
+	<iostream>
+	"Queue.h"
+
+1418052494 c:\users\max\documents\c++\labbar\labb 5\u6\queue.h
+	<stdexcept>
+
+1418053811 source:c:\users\max\documents\c++\labbar\labb 5\u6\queue.cpp
+	"Queue.h"
+	<stdexcept>
+

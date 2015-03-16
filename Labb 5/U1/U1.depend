@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1417971822 source:c:\users\max\documents\c++\labbar\labb 5\u1\kund.cpp
+
+1418045076 source:c:\users\max\documents\c++\labbar\labb 5\u1\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<queue>
+	<time.h>
+	"kund.h"
+
+1417972398 c:\users\max\documents\c++\labbar\labb 5\u1\kund.h
+	<cstdlib>
+
